@@ -1,4 +1,4 @@
 # nodejsDemo
 This is my first Git Repository
 
-Author - Prashant Kumar
+Author - Prashant Kumar(Trivedi)
